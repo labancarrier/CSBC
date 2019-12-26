@@ -168,14 +168,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: #fff;
-	background-color: #628d0f;
+	background-color: #1fc2f3;
 }
 /* Header Section */
 .intro {
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(https://images.unsplash.com/photo-1438232992991-995b7058bbb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60) no-repeat center center;
+	background: url(https://images.unsplash.com/photo-1437603568260-1950d3ca6eab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80) no-repeat center center;
 	background-color: #1fc2f3;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -194,7 +194,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 10px;
 }
 .intro span {
-	color: #a7c44c;
+	color: #1fc2f3;
 	font-weight: 600;
 }
 .intro p {
@@ -242,7 +242,7 @@ header .intro-text {
 	padding: 0 0 60px 0;
 }
 #restaurant-menu .section-title {
-	background: #444 url(https://images.unsplash.com/photo-1507692049790-de58290a4334?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60) center center no-repeat fixed;
+	background: #444 url(https://images.unsplash.com/photo-1472162072942-cd5147eb3902?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60) center center no-repeat fixed;
 	background-size: cover;
 }
 #restaurant-menu .section-title h2 {
@@ -250,7 +250,7 @@ header .intro-text {
 }
 #restaurant-menu img {
 	width: 300px;
-	box-shadow: 15px 0 #a7c44c;
+	box-shadow: 15px 0 #1fc2f3;
 }
 #restaurant-menu h3 {
 	padding: 10px 0;
@@ -415,7 +415,7 @@ ol.type li a:hover {
 /* Team Section */
 #team {
 	color: #fff;
-	background: #444 url(https://images.unsplash.com/photo-1491396023581-4344e51fec5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60) center top no-repeat fixed;
+	background: #444 url(https://images.unsplash.com/photo-1498184103684-bc1a70b0c068?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60) center top no-repeat fixed;
 	background-size: cover;
 }
 #team .overlay {
@@ -467,7 +467,7 @@ ol.type li a:hover {
 #call-reservation {
 	padding: 90px 0;
 	color: #fff;
-	background: #1fc2f3;
+	background: #189dc5;
 }
 #call-reservation .overlay {
 	padding: 80px 0;
